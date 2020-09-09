@@ -1,0 +1,22 @@
+{
+    "name": "zydrunas/project-orm",
+    "description": "employee-project",
+    "type": "project",
+    "license": "MBI",
+    "authors": [
+        {
+            "name": "Zydrius",
+            "email": "zydrunas.pavinksnis@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.7"
+    },
+
+    "autoload": {
+        "files": ["src/Project.php"]
+    }
+
+
+
+}
